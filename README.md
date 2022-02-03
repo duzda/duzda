@@ -2,5 +2,5 @@
 
 If not, feel free to:
 - 🎮 <a href="https://duzda.itch.io/">Checkout my games</a>
-- 📧 Send me an e-mail: duzda666@gmail.com
+- 📧 Send me an e-mail: duzda@disroot.org
 - 📢 Contact me via Discord: Duzda#7407
