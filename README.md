@@ -3,4 +3,4 @@
 If not, feel free to:
 - 🎮 <a href="https://duzda.itch.io/">Checkout my games</a>
 - 📧 Send me an e-mail: duzda@disroot.org
-- 📢 Contact me via Discord: Duzda#7407
+- 📢 Contact me via Discord: duzda
